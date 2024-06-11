@@ -27,3 +27,14 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+
+#footer{
+    background: rgba(9, 9, 254, 0.615);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+   
+}
